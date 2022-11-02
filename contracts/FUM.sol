@@ -9,8 +9,8 @@ import "./MinOut.sol";
 
 /**
  * @title FUM Token
- * @author Alberto Cuesta Cañada, Jacob Eliosoff, Alex Roan
- *
+ * @author Alireza Haghshenas    github: alireza1691
+ * @notice This is a fork and i specialize that for myself
  * @notice This should be created and owned by the USM instance.
  */
 contract FUM is IFUM, ERC20Permit, OptOutable {
